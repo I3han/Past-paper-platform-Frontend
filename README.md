@@ -1,6 +1,8 @@
-# EcomSite
+# Past-paper-platform-Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
+
+## Run, npm install, to install the node dependencies
 
 ## Development server
 
